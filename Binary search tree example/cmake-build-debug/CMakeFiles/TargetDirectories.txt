@@ -1,0 +1,3 @@
+D:/proga/LW5/cmake-build-debug/CMakeFiles/LW5.dir
+D:/proga/LW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/proga/LW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

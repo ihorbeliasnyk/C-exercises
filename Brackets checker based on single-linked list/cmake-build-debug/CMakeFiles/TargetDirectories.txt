@@ -1,0 +1,3 @@
+D:/proga/LW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/proga/LW4/cmake-build-debug/CMakeFiles/LW4.dir
+D:/proga/LW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
